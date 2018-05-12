@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3883
     wikipedia: http://en.wikipedia.org/wiki/Charles_De_Coster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37668#Flemish-Legends
 gutenberg_issued: '2011-10-08'
 gutenberg_type: Text
 identifiers:
